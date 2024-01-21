@@ -21,7 +21,6 @@ Mat preProcessing(Mat img)
 	return imgDil;
 }
 
-
 vector<Point> reorder(vector<Point> points)
 {
 	vector<Point> newPoints;
